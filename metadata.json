@@ -1,0 +1,6 @@
+{
+  "name": "ShelfIQ - Retail Shelf & Planogram Intelligence",
+  "description": "Multimodal retail store audit dashboard analyzing shelf images for planogram compliance, out-of-stock detection, pricing discrepancies, and automated restock task lists.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
